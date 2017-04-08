@@ -1,5 +1,5 @@
 # enron-machine-learning
-As part of Udacity's Data Analyst Nanodegree progrma, this project predicts fraud with machine learning algorithms for Enron's public data set. 
+As part of Udacity's Data Analyst Nanodegree program, this project predicts fraud with machine learning algorithms for Enron's public data set. 
 Please refer to the accompanying iPython Notebook for a description of results and methodologies used.  
 
 Enron Fraud Prediction Main.ipynb:  iPython Notebook describing the results and methodologies used      
